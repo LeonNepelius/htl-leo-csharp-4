@@ -31,9 +31,9 @@ You can choose in which environment you would like to do your demo. *Visual Stud
 | Expression-bodied members                                   |         |
 | Exceptions and exception handling                           |         |
 | Interfaces                                                  |         |
-| Type casting and type conversion                            |         |
+| Type casting and type conversion                            | Leon Nepelius |
 | Writing to and reading from the console                     |         |
-| Type testing (`is` and `as`)                                | Maximilian Pineker   |
+| Type testing (`is` and `as`)                                |         |
 | Access modifiers (e.g. `private`, `public`, etc.)           |         |
 | Namespaces                                                  |         |
 | Functions (incl. `static` and local functions)              |         |
@@ -48,7 +48,7 @@ You can choose in which environment you would like to do your demo. *Visual Stud
 | Constructors and finalizers                            |         |
 | Tuples                                                 |         |
 | The type `dynamic`                                     |         |
-| Single- and multi-dimensional arrays                   | Jan Fischlmayr        |
+| Single- and multi-dimensional arrays                   |         |
 | `?.`, `??`, and `??=`                                  |         |
 | `string` vs. `StringBuilder`                           |         |
 | `const` and `readonly`                                 |         |
@@ -62,9 +62,9 @@ You can choose in which environment you would like to do your demo. *Visual Stud
 | Topic                         | Student |
 | ----------------------------- | ------- |
 | Records                       |         |
-| Reflection                    | Khnifes Kyrillus|
+| Reflection                    |Khnifes Kyrillus|
 | Delegates                     |         |
 | Events                        |         |
-| Enumerators and `yield`       | Kastenhofer Daniel        |
+| Enumerators and `yield`       |         |
 | Attributes                    |         |
 | Covariance and Contravariance |         |
